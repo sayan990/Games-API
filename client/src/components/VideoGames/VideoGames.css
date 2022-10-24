@@ -1,0 +1,14 @@
+.cartas{
+    font-family: "Quicksand", sans-serif;
+    display: grid;
+    place-items: center;
+    height: 100%;
+    width: 100%;
+    background: #7f7fd5;
+    background: gray;
+ 
+  
+}
+.paginado{ 
+    background-color: pink;
+}

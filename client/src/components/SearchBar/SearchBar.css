@@ -1,0 +1,21 @@
+.boton-buscar{ 
+    width: 100px;
+    height: 25px;
+    background-color: rgb(86, 86, 86);
+    font-size: 17px;
+    margin-right: 10px;
+    justify-content: center;
+    border:none;
+    border-radius: 5px;
+}
+.input-buscar{ 
+    width: 150px;
+    height: 17px;
+    border-radius: 5px;
+    
+    border-width: none;
+}
+.searchbar-style{
+    margin-left: 250px;
+
+}

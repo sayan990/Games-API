@@ -1,0 +1,29 @@
+.detail-container {
+    width: 1000px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    border: solid;
+    border-color: rgba(53, 52, 52, 0.96);
+  }
+  
+  .img-container {
+    width: 100px;
+  }
+.container-detail{
+  background-color: gray;
+}
+
+.descripcion{
+  background-color: rgba(84, 83, 83, 0.96);
+}
+
+.tit-detail{
+  background-color: rgba(0, 0, 0, 0.322);
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}

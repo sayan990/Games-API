@@ -1,0 +1,11 @@
+.AllVideoGames{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.fondo{
+    background-color: gray;
+}
